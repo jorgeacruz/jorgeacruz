@@ -9,8 +9,9 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeacruz&show_icons=true&theme=dracula&count_private=true)
 
-<br/><br/>
-## Tecnologias que eu uso.
+<br/>
+
+# Tecnologias que eu uso.
 
 <div style="display: inline_block">
 
@@ -23,7 +24,7 @@
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=ff6600" />
   <img align="center" alt="react" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
-  
+  </div>
 <br/><br/>
 
 # App que uso
@@ -38,7 +39,10 @@
   <br/><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<br/><br/><br/>
+
+</div>
+
+<br/><br/>
 
 # Hightly User
 
