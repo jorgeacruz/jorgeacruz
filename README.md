@@ -2,7 +2,6 @@
 # Eu sou o Jorge Cruz
 ## Carioca, coding is part of my new version. Front-end!
 
-[![Blog](https://img.shields.io/website?label=Jorgecruz.dev.br&style=for-the-badge&url=https://jorgecruz.dev.br/)](https://jorgecruz.dev.br)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/jorge.cruz.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jorge.cruz.dev)
 
