@@ -52,9 +52,6 @@
   
 </div>
 
-# Carioca, coding is part of my new version. Front-end!
 
-### Últimos Posts:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
 
 
