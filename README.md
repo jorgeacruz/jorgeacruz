@@ -1,6 +1,6 @@
 ### Fala comigo! Tudo bem?
 # Eu sou o Jorge Cruz
-## Carioca, coding is part of my new version. Front-end!
+## Encoding is part of my new version. Front-end!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/jorge.cruz.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jorge.cruz.dev)
