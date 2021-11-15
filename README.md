@@ -1,6 +1,6 @@
-### Fala comigo! Tudo bem?
+### Fala comigo! 
 # Eu sou o Jorge Cruz
-## Encoding is part of my new version. Front-end!
+## As long as you don't succeed, keep trying. Front-end!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/jorge.cruz.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jorge.cruz.dev)
