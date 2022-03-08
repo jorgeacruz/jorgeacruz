@@ -1,5 +1,5 @@
-### Fala comigo! 
-# Eu sou o Jorge Cruz
+### It's me again! 
+# My name's Jorge Cruz
 ## As long as you don't succeed, keep trying. Front-end!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/jorge.cruz.dev)
@@ -10,7 +10,7 @@
 
 <br/>
 
-# Tecnologias que eu uso.
+# Technology used.
 
 <div style="display: inline_block">
 
@@ -26,7 +26,7 @@
   </div>
 <br/><br/>
 
-# App que uso
+# Apps.
 
 <div style="display: inline_block">
   <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
