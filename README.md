@@ -1,6 +1,6 @@
 ### It's me again! 
 # My name's Jorge Cruz
-## As long as you don't succeed, keep trying. Front-end!
+## As long as you don't succeed, keep trying. Let code with Front-end!
 
 ![Jorge Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeacruz&theme=dark&show_icons=true)
 
