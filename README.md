@@ -3,7 +3,7 @@
 ## As long as you don't succeed, keep trying. Let code with Front-end!
 
 ![Jorge Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeacruz&theme=dark&show_icons=true)
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoujo&layout=compact&langs_count=7&theme=dark"/>
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/jorge.cruz.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jorge.cruz.dev)
